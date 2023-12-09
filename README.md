@@ -6,11 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsohelrana85238960&label=Profile%20views&color=0e75b6&style=flat" alt="mdsohelrana85238960" /> </p>
 
-- This is Library management system [Library management](https://cd-library-management-system.web.app/)
 
-- This is Technology-Electronics [Technology-Electronics](https://technology-and-electroni-b8171.web.app/)
+🚀 **What I Do:**
+I thrive in the world of MERN-stack development, bringing ideas to life through the power of React.js, Node.js, Express.js, and MongoDB. My journey is marked by a love for clean code, elegant design, and problem-solving.
 
-- 🔭 I’m currently working on [Shoe Store](https://inventory-management-sys-3f1da.web.app/)
+🌱 **Continuous Learner:**
+In this fast-paced tech landscape, I believe in the art of perpetual learning. I stay curious about emerging technologies, always seeking to enhance my skills and stay ahead of the curve.
+
+💡 **Projects & Collaboration:**
+I've contributed to various projects, such as [mention a notable project or two], where I've honed my collaborative spirit and problem-solving skills. I'm always open to exciting opportunities and collaborations.
+
 
 - 📫 How to reach me **mdsohelrana85238960@gmail.com**
 
@@ -35,3 +40,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdsohelrana85238960&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdsohelrana85238960&theme=algolia&utcOffset=8)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsohelrana85238960)](https://git.io/streak-stats)
+
+
+<h3 align="left">Project:</h3>
+
+-  [Library management](https://cd-library-management-system.web.app/)
+
+-  [Technology-Electronics](https://technology-and-electroni-b8171.web.app/)
+
+-  [Shoe Store](https://inventory-management-sys-3f1da.web.app/)
